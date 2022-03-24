@@ -11,5 +11,6 @@ Once you have the above steps working you can download this repo and place it in
 
 Next you can make and upload to the designated half using:
 
-    `make tbskb:default:dfu-split-right`
-    `make tbskb:default:dfu-split-left`
+`make tbskb:default:dfu-split-right`
+
+`make tbskb:default:dfu-split-left`
